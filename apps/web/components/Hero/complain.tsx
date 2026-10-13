@@ -174,7 +174,7 @@ export default function GrievanceBanner() {
               {/* Primary CTA */}
 
               <Link
-                href="/public-grievance"
+                href="/publicgrievance"
                 className="group inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-xl bg-orange-500 px-5 py-3 text-sm font-bold text-white shadow-lg shadow-orange-950/20 transition-all duration-200 hover:bg-orange-400 hover:shadow-xl focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#1b430b] sm:w-auto"
               >
                 <MessageSquarePlus
